@@ -1,2 +1,5 @@
 # hello-world
-This is my practice repository
+I am learning to use Git Hub.
+This is my practice repository.
+
+
